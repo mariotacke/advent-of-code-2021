@@ -1,7 +1,7 @@
 # Advent of Code 2021 - My Solutions
 [![Build Status](https://github.com/mariotacke/advent-of-code-2021/workflows/build/badge.svg)](https://github.com/mariotacke/advent-of-code-2021/actions)
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2021/master/.github/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2021)
-[![Dependency Status](https://img.shields.io/david/mariotacke/advent-of-code-2021.svg)](https://david-dm.org/mariotacke/advent-of-code-2021)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/mariotacke/advent-of-code-2021)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2021/master/LICENSE)
 
 // REPLACE ME WITH PUZZLE INTRODUCTION
