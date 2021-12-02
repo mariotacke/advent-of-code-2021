@@ -1,7 +1,6 @@
 # Advent of Code 2021 - My Solutions
 [![Build Status](https://github.com/mariotacke/advent-of-code-2021/workflows/build/badge.svg)](https://github.com/mariotacke/advent-of-code-2021/actions)
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2021/master/.github/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2021)
-![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/mariotacke/advent-of-code-2021)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2021/master/LICENSE)
 
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
@@ -15,7 +14,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ## Days
 
 - [Day 1: Sonar Sweep](day-01-sonarr-sweep/)
-- [Day 2: TBD](day-02/)
+- [Day 2: Dive!](day-02-dive/)
 - [Day 3: TBD](day-03/)
 - [Day 4: TBD](day-04/)
 - [Day 5: TBD](day-05/)
