@@ -40,19 +40,19 @@ class BingoBoard {
 
 module.exports = (input) => {
   const puzzleInput = input.split('\n\n').map((line) => line.trim());
-
   const drawnNumbers = puzzleInput[0].split(',').map((number) => +number);
-  const boards = puzzleInput.slice(1).map((board) => new BingoBoard(board));
+
+  let boards = puzzleInput.slice(1).map((board) => new BingoBoard(board));
 
   for (let i = 0; i < drawnNumbers.length; i++) {
     const numberDrawn = drawnNumbers[i];
 
     boards.forEach((board) => board.mark(numberDrawn));
 
-    const boardWithBingo = boards.find((board) => board.hasBingo);
-
-    if (boardWithBingo) {
-      return boardWithBingo.unmarkedNumbersSum * numberDrawn;
+    if (boards.length === 1 && boards[0].hasBingo) {
+      return boards[0].unmarkedNumbersSum * numberDrawn;
     }
+
+    boards = boards.filter((board) => !board.hasBingo);
   }
 };
