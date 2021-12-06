@@ -18,7 +18,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 3: Binary Diagnostic](day-03-binary-diagnostic/)
 - [Day 4: Giant Squid](day-04-giant-squid/)
 - [Day 5: Hydrothermal Venture](day-05-hydrothermal-venture/)
-- [Day 6: TBD](day-06/)
+- [Day 6: Lanternfish](day-06-lanternfish/)
 - [Day 7: TBD](day-07/)
 - [Day 8: TBD](day-08/)
 - [Day 9: TBD](day-09/)
