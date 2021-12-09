@@ -21,7 +21,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 6: Lanternfish](day-06-lanternfish/)
 - [Day 7: The Treachery of Whales](day-07-the-treachery-of-whales/)
 - [Day 8: Seven Segment Search](day-08-seven-segment-search/)
-- [Day 9: TBD](day-09/)
+- [Day 9: Smoke Basin](day-09-smoke-basin/)
 - [Day 10: TBD](day-10/)
 - [Day 11: TBD](day-11/)
 - [Day 12: TBD](day-12/)
