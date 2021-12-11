@@ -23,7 +23,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 8: Seven Segment Search](day-08-seven-segment-search/)
 - [Day 9: Smoke Basin](day-09-smoke-basin/)
 - [Day 10: Syntax Scoring](day-10-syntax-scoring/)
-- [Day 11: TBD](day-11/)
+- [Day 11: Dumbo Octopus](day-11-dumbo-octopus/)
 - [Day 12: TBD](day-12/)
 - [Day 13: TBD](day-13/)
 - [Day 14: TBD](day-14/)
