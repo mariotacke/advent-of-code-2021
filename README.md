@@ -29,7 +29,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 14: Extended Polymerization](day-14-extended-polymerization/)
 - [Day 15: Chiton](day-15-chiton/)
 - [Day 16: Packet Decoder](day-16-packet-decoder/)
-- [Day 17: TBD](day-17/)
+- [Day 17: Trick Shot](day-17-trick-shot/)
 - [Day 18: TBD](day-18/)
 - [Day 19: TBD](day-19/)
 - [Day 20: TBD](day-20/)
